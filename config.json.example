@@ -1,0 +1,9 @@
+{
+  "token":"Your Token Here",
+  "fortniteapikey": "Fortnite APIkey Here",
+  "ownerID": "Your ID Here",
+  "prefix": ".",
+  "green":"#26af3b",
+  "red":"#ff1919",
+  "blue":"#0c60a0"
+}
