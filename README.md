@@ -17,7 +17,7 @@ Prefix !
 * ```!poll``` - Displays bot statistics
 
 ### Fortnite:
-* ```!ftnstats``` - Displays a users fortnite stats
+* ```!ftn``` - Displays a users fortnite stats
 
 ### Economy:
 * ```!stats``` - Displays player stats
